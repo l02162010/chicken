@@ -1,0 +1,23 @@
+{
+  "name": "chicken",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/l02162010/chicken.git"
+  },
+  "author": "Austin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/l02162010/chicken/issues"
+  },
+  "homepage": "https://github.com/l02162010/chicken#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^7.1.0"
+  }
+}
